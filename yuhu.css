@@ -1,0 +1,25 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: purple;
+    font-style: italic;
+}
+
+p {
+    font-style: italic;
+}
+
+ul {
+    font-size: 20px;
+    color: lightcoral;
+    background-color: blanchedalmond;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+img {
+    display: block;
+    align-content: center;
+}
